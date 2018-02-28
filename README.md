@@ -1,3 +1,7 @@
+I created
+[an issue for this in the EF6 repo](https://github.com/aspnet/EntityFramework6/issues/480)
+to hopefully get clarification on whether or not this can be fixed.
+
 # Introduction
 A sample project demonstrating behavior of Entity Framework with
 inheritance in the model. This test was made using .NET Framework v4.7
